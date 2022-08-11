@@ -1,4 +1,4 @@
-Plugin by https://github.com/TaiAurori/ but they have taken the plugin down. This repository exists if you still want to use the addon or modify and reuse the code etc
+Plugin by https://github.com/TaiAurori/ but they have taken the plugin's repository down. This repository exists if you still want to use the addon or modify and reuse the code etc
 
 
 Powercord is dead, y'hear? This plugin ain't being updated anytime soon!
